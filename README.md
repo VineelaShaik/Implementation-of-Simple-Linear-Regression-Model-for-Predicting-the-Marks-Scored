@@ -70,25 +70,25 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-###df.head()<br>
+### df.head()<br>
 ![Screenshot 2024-03-06 131705](https://github.com/VineelaShaik/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144340862/be18d4d7-50ac-4f69-b705-e469ab86f367)<br>
-###df.tail()<br>
+### df.tail()<br>
 ![Screenshot 2024-03-06 131823](https://github.com/VineelaShaik/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144340862/7b9924ae-a129-454f-9ee4-3a43a3e0d545)<br>
-###x=df.iloc[:,:-1].values<br>
-###x<br>
+### x=df.iloc[:,:-1].values<br>
+### x<br>
 ![Screenshot 2024-03-06 131932](https://github.com/VineelaShaik/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144340862/cf5914cf-6b24-4840-81d4-ff0421c2a852)<br>
-###y=df.iloc[:,1].values<br>
-###y<br>
+### y=df.iloc[:,1].values<br>
+### y<br>
 ![Screenshot 2024-03-06 132129](https://github.com/VineelaShaik/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144340862/1842d97f-f5bb-4e43-aebc-ddc99b777069)<br>
-###y_pred<br>
+### y_pred<br>
 ![Screenshot 2024-03-06 132248](https://github.com/VineelaShaik/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144340862/2d9c0a55-ab22-4345-8d5e-83b3f6f09195)<br>
-###y_test<br>
+### y_test<br>
 ![Screenshot 2024-03-06 132322](https://github.com/VineelaShaik/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144340862/f899f52e-a8bb-466a-8287-29d0e24e9975)<br>
-###Training set<br>
+### Training set<br>
 ![Screenshot 2024-03-06 132458](https://github.com/VineelaShaik/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144340862/63009a10-5133-4252-8f0d-53ba0f44587a)<br>
-###Testing set<br>
+### Testing set<br>
 ![Screenshot 2024-03-06 132549](https://github.com/VineelaShaik/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144340862/f36735a7-fd1e-42ea-8193-8c0c480931b3)<br>
-###Errors<br>
+### Errors<br>
 ![Screenshot 2024-03-06 132626](https://github.com/VineelaShaik/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144340862/0e3fe82c-19e5-4679-b2ef-86349e1904c7)<br>
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
